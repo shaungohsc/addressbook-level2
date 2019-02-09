@@ -1,4 +1,4 @@
-package seedu.addressbook.commands;
+package java.seedu.addressbook.commands;
 
 public class ViewAllCommandTest {
     // ViewAllCommand is tested together with ViewCommand in ViewCommandTest.
